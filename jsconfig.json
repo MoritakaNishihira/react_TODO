@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "checkJs": true,
+    "lib": ["DOM", "ES2022"],
+    "module": "AMD",
+    "allowJs": true,
+    "strict": false
+  },
+  "exclude": ["node_modules"]
+}
